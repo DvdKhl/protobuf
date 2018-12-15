@@ -1,3 +1,7 @@
+NOT IN WORKING CONDITION
+
+Aim of this fork is to include Delphi 10 support for ProtoBuf
+
 Protocol Buffers - Google's data interchange format
 ===================================================
 
